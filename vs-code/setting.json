@@ -1,0 +1,25 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontFamily": "'Liberation Mono for Powerline', Menlo, Monaco, 'Courier New', monospace",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 13,
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "todo-tree.tree.showScanModeButton": false,
+  "files.trimTrailingWhitespace": true,
+  "workbench.editorAssociations": [
+    {
+      "viewType": "default",
+      "filenamePattern": "*.md"
+    }
+  ],
+  "editor.fontLigatures": null
+}
