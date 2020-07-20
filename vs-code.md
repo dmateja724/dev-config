@@ -23,3 +23,5 @@ code --install-extension ryu1kn.partial-diff
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension yzhang.markdown-all-in-one
 ```
+
+TODO: add in settings.json file
